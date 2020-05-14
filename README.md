@@ -26,7 +26,7 @@ Elastic Search Default port is 5601
 
 ### Logstash - Config, pipeline
 <img src="./images/logstashConfig.png" alt="architecture">
-<img src="./images/logstashPipeline.png" alt="architecture">
+<img src="./images/logstashpipeline.png" alt="architecture">
 
 ### Kibana Dashboard Example
 <img src="./images/kibanaExampleDashboard.png" alt="architecture">
