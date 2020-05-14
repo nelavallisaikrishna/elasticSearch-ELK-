@@ -31,3 +31,9 @@ Elastic Search Default port is 5601
 ### Kibana Dashboard Example
 <img src="./images/kibanaExampleDashboard.png" alt="architecture">
 
+### Inspecting Cluster by using Kibana
+<img src="./images/inspectingCluster_001.png" alt="architecture">
+<img src="./images/inspectingClister_002.png" alt="architecture">
+
+
+
