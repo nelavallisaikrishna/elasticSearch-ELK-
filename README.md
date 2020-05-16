@@ -14,7 +14,7 @@ Elastic Search Default port is 9200
 ##### Extract tar file -> go inside file -> start bin/kibana
 Elastic Search Default port is 5601
 
-##Information about stack
+## Information about stack
 ### ELK  Setup
 <img src="./images/ELKSetup.png" alt="architecture">
 
